@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Manager",
+  "description": "Comprehensive mobile inventory manager with role-based dashboards, manual stock adjustment, barcode scanning simulation, pre-defined transaction logging, Excel/CSV sync, and AI stock predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
